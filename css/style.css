@@ -7,7 +7,7 @@
 {
     display: grid;
     grid-template-rows: 120px 180px 180px 120px;
-    grid-template-columns: 0.3fr 1fr 1fr;
+    grid-template-columns: 0.5fr 1fr 1fr;
     grid-gap: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
